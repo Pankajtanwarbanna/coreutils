@@ -19,5 +19,3 @@ The tool can read from files or standard input (stdin) and is designed to closel
 
 ### Requirements
 Rust programming language
-
-
